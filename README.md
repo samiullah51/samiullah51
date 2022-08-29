@@ -1,11 +1,10 @@
-### Hi 👋, I'm Sami Samiullah
+<h1 align = "center"> Hi 👋, I'm Sami Samiullah </h1>
 
 
-# Currently Enrolled in Software Engineering Program at CUSIT Peshawar and a self-thought Web Developer based in Pakistan 🇵🇰 Looking forward to learning Machine Learning.
+<h3 align = "center"> Currently in 7(th) semester of BS(Software Engineering) at <i> City University of Science and Information Technology Peshawar</i>. </h3>
 
-Here are some ideas to get you started:
+
 ---
-<hr />
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
