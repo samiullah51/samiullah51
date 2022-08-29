@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Sami Samiullah
 
 
-**samiullah51/samiullah51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Currently Enrolled in Software Engineering Program at CUSIT Peshawar and a self-thought Web Developer based in Pakistan 🇵🇰 Looking forward to learning Machine Learning.
 
 Here are some ideas to get you started:
 ---
