@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
-<h2> Hey there! I'm Sami Samiullah.</h2>
+<h2> Hey there 👋! I'm Sami Samiullah.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -43,7 +43,7 @@
 <br/>
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samiullah51&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samiullah51&theme=buefy&show_icons=true&show_prs=false" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiullah51&theme=buefy&layout=compact" />
 </a>
 
