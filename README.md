@@ -3,16 +3,14 @@
 
 <h3 align = "center"> Currently in 7(th) semester of BS(Software Engineering) at <i> City University of Science and Information Technology Peshawar</i>. </h3>
 
-<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="40" height="40" /> 
+ 
 
 ## Frontend Skills:
-               -- HTML
-               -- CSS
-                         - Bootstraps
-                         - Tailwind CSS
-                         - SASS
-               -- JavaScript
-                         - ReactJS/Redux
+<div>
+ <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="40" height="40" style = "margin:20px;" /> 
+<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="40" height="40" />
+  </div>
+             
 
 ## Backend Skills:
                -- NodeJS / ExpressJS                  
