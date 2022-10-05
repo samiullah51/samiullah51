@@ -57,10 +57,7 @@ Currentltly studing in 7<sup>th</sup> semester of BS(Software Engineering at Cit
   ![AdobeXd](https://img.shields.io/badge/-AdobeXd-333333?style=flat&logo=Adobe-xd)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
-<a href="https://github.com/samiullah51">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samiullah51&theme=buefy&show_icons=true&show_prs=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiullah51&theme=buefy&layout=compact" />
-</a>
+
 
 
 
