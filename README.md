@@ -1,6 +1,4 @@
-<img src="https://www.synergisticit.com/wp-content/uploads/2021/09/Dallas-Banner.jpg" width="100%" height="200">
-
-<h2 align="center"> Hey there 👋! I'm Sami Samiullah.</h2>
+<img src="https://i.ibb.co/3chNgyd/fg.png" width="100%" height="300">
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 Currentltly studing in 7<sup>th</sup> semester of BS(Software Engineering at City University of Science and Information Technology Peshawar (PAK). 
