@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/3chNgyd/fg.png" width="100%" height="300">
+<img src="https://i.ibb.co/3chNgyd/fg.png" width="100%" height="260">
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 Currentltly studing in 7<sup>th</sup> semester of BS(Software Engineering at City University of Science and Information Technology Peshawar (PAK). 
