@@ -1,7 +1,7 @@
 <img src="https://i.ibb.co/3chNgyd/fg.png" width="100%" height="260">
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-Currentltly studing in 8<sup>th</sup> semester of BS(Software Engineering at City University of Science and Information Technology Peshawar (PAK). 
+ 
+ <h3> 👨🏻‍💻  &nbsp;Senior MERN Stack Developer </h3>
 
 <h3> 💻 &nbsp;Programming Language</h3>
 
