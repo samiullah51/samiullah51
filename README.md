@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/3chNgyd/fg.png" width="100%" height="260">
+<img src="[https://i.ibb.co/3chNgyd/fg.png](https://media.licdn.com/dms/image/D4D16AQGeej-kb4cwxg/profile-displaybackgroundimage-shrink_350_1400/0/1694027229406?e=1709164800&v=beta&t=hQIUsruB6SzNyfGMligrGdgmndzkHvS8mRbYMlja1sc)" width="100%" height="260">
 
  
  <h3> 👨🏻‍💻  &nbsp;Senior MERN Stack Developer </h3>
