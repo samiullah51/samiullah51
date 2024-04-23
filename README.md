@@ -1,7 +1,7 @@
 <img src="https://media.licdn.com/dms/image/D4D16AQHTkwD6Q2L2lw/profile-displaybackgroundimage-shrink_350_1400/0/1708104984386?e=1713398400&v=beta&t=5ZEV7wAwCt_tgceCXmpYCl7zTKShSFjq8-HBuPwXtik" width="100%" height="260">
 
  
- <h3> 👨🏻‍💻  &nbsp;Senior MERN Stack Developer </h3>
+ <h3> 👨🏻‍💻  &nbsp;Senior MERN Stack Developer  </h3>
 
 <h3> 💻 &nbsp;Programming Language</h3>
 
