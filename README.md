@@ -65,7 +65,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://myportfolio-as-mern-stack.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-myportfolio-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://sami-mernstack-portfolio.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-myportfolio-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/sami-samiullah-b190b5238/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sami%20Samiullah%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/sami_samiullah51728/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-samiullah__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:samii51728@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-samii51728@gmail.com-blue?style=flat-square&logo=gmail"></a>
