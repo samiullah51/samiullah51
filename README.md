@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D4D16AQHTkwD6Q2L2lw/profile-displaybackgroundimage-shrink_350_1400/0/1708104984386?e=1719446400&v=beta&t=hYPj3L542TSbCtTnq8Ix94IthYjWLKohepy8TjXq3P0" width="100%" height="260">
+<img src="https://media.licdn.com/dms/image/D4D16AQGn3SE4O7TsAw/profile-displaybackgroundimage-shrink_350_1400/0/1719302272060?e=1724889600&v=beta&t=_TGEBZnLlkiapXaAsCEJCgjSceAmpyhGv0MIAx2qWGw" width="100%" height="260">
 
  
  <h3> 👨🏻‍💻  &nbsp;Senior MERN Stack Developer  </h3>
