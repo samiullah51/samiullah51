@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D4D16AQGn3SE4O7TsAw/profile-displaybackgroundimage-shrink_350_1400/0/1719302272060?e=1724889600&v=beta&t=_TGEBZnLlkiapXaAsCEJCgjSceAmpyhGv0MIAx2qWGw" width="100%" height="260">
+<img src="https://github.com/samiullah51/Embed-Chat/blob/main/Untitled-1-02.jpg?raw=true" width="100%" height="260">
 
 <h3>👨🏻‍💻 &nbsp;Skilled Full Stack Developer</h3>
 
